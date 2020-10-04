@@ -1,0 +1,59 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .carousel{
+      margin-top: 60px;
+  }
+
+  #navbar{
+     opacity: 95%;
+     background-color: #9A6A4E;
+  }
+ #about{
+     background-color: #9A6A4E;
+ }
+
+  .sec2 {
+    color: white;
+
+  }
+
+  .menu {
+      justify-content: center;
+  }
+
+  .tombol-coklat{
+      color: #c58c6b;
+      border: #c58c6b solid 1px;
+      border-radius: 5px;
+    
+  }
+  .tombol-coklat:hover {
+      background-color: #c58c6b;
+  }
+
+
+  .footer {
+      width: 100%;
+      
+  }
+
+  .pembatas {
+      width: 5vw;
+      background-color: brown;
+  }
+  .pembatas-putih{
+      width: 5vw;
+      background-color: white;
+  }
+
+  .a:hover {
+      color: cyan;
+  }
